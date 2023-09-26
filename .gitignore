@@ -34,12 +34,9 @@ lerna-debug.log*
 !.vscode/launch.json
 !.vscode/extensions.json
 
-#Env
+# Env
 .env
+.env.test
 
-#Docker
+# Docker
 data
-
-#Keys
-jwtRS256.key
-jwtRS256.key.pub
