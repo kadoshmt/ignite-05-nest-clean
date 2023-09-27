@@ -16,11 +16,8 @@
 
 ## Sobre
 
-Projeto desenvolvido durante o módulo 5 do Ignite da Rocketseat, trilha Node, cujo objetivo foi entender os conceitos principais do framework NestJS, como injeção de dependência, controllers e services, além de integrar outas ferramentas como Prisma, Zod e Vitest. Também foi realizada a integração com o código "core" desenvolvido no módulo anterior sobre DDD, que pode ser acessado <a href="https://github.com/kadoshmt/ignite-nodejs-04-clean-ddd">neste repositório</a>.
+Projeto desenvolvido durante o módulo 5 do Ignite da Rocketseat, trilha Node, cujo objetivo foi entender os conceitos principais do framework NestJS, como injeção de dependência, controllers e services, além de integrar outas ferramentas como Prisma, Zod e Vitest. Também foi realizada a integração com o código "core" desenvolvido no módulo anterior sobre DDD, que pode ser acessado <a href="https://github.com/kadoshmt/ignite-nodejs-04-clean-ddd">neste repositório</a>. Segue também as <a href="https://wiggly-metal-807.notion.site/API-REST-NESTJS-Rocketseat-dbe37095f8f24c3da8aadf771ee14e2a">anotações das aulas</a>, contendo uma explicação mais detalha das configurações e alguns conceito.
 
-## Clean Archtecture
-
-🚧 Em construção 🚧
 
 ## Instalação
 
