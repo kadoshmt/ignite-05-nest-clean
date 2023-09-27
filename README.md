@@ -29,10 +29,10 @@ Além disso é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git@github.com:kadoshmt/ignite-nodejs-04-clean-ddd.git
+$ git@github.com:kadoshmt/ignite-05-nest-clean.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd ignite-nodejs-04-clean-ddd
+$ cd ignite-05-nest-clean
 
 # Instale as dependências
 $ pnpm install
